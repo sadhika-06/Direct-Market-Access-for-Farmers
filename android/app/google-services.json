@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "89936012705",
+    "project_id": "farmer-app-bcede",
+    "storage_bucket": "farmer-app-bcede.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:89936012705:android:ee539f0d38f543175ad7e0",
+        "android_client_info": {
+          "package_name": "com.example.farmer_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBr6am7Ha0aPns8VJnrP5ws2efcK85S_k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:89936012705:android:8c646708ba8bca815ad7e0",
+        "android_client_info": {
+          "package_name": "com.example.farmer_app_new"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBr6am7Ha0aPns8VJnrP5ws2efcK85S_k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
